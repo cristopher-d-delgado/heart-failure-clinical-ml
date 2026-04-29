@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BASE_URL  = "https://physionet.org/protected/published-projects/heart-failure-zigong/1.3/"
+BASE_URL  = "https://physionet.org/files/heart-failure-zigong/1.3/"
 LOGIN_URL = "https://physionet.org/login/"
 SAVE_DIR  = Path("data/raw/zigong")
 
