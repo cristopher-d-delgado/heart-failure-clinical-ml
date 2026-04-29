@@ -181,7 +181,7 @@ if __name__ == "__main__":
     if all_ok:
         verified = verify_downloads()
         if verified:
-            print("\nDownload complete. You can now run the MySQL loader.")
+            print("\nDownload complete.")
         else:
             print("\nSomething went wrong. Re-run the script.")
     else:
