@@ -83,7 +83,7 @@ normal reference ranges, since this is a critically ill heart failure cohort.
 |---|---|---|
 | `sodium` | 105–180 mmol/L | Adrogue HJ, Madias NE. Hyponatremia. *NEJM.* 2000;342(21):1581-9 |
 | `sodium.ion` | 105–180 mmol/L | Adrogue HJ, Madias NE. Same as above |
-| `potassium` | 1.5–9.0 mmol/L | Gennari FJ. Hypokalemia. *NEJM.* 1998;339(7):451-8 |
+| `potassium` | 1.5–9.0 mmol/L | Gennari FJ. Hypokalemia. *NEJM.* 1998;339(7):451-8, [Hyperkalemia](https://www.ncbi.nlm.nih.gov/books/NBK568741/#:~:text=Hyperkalemia%20is%20defined%20as%20a,levels%20than%20children%20and%20adults.)|
 | `potassium.ion` | 1.5–9.0 mmol/L | Gennari FJ. Same as above |
 | `chloride` | 70–130 mmol/L | Kasper DL et al. *Harrison's Principles of Internal Medicine.* 20th ed. McGraw-Hill; 2018 |
 | `chloride.ion` | 70–130 mmol/L | Kasper DL et al. Same as above |
